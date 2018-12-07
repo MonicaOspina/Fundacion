@@ -1,0 +1,31 @@
+.card-img-top{
+    height: 50%;
+    object-fit: cover;
+}
+
+.card-text{
+    width: 100%;
+}
+
+
+
+.card-body{
+    height: 100%;
+    background: #c8d9eb;
+
+}
+
+.center{
+    height:300px;
+    background: white;
+}
+
+.card-header{
+    background: #f0d9da;
+    
+}
+.text-center{
+    margin-top: 30px;
+}
+
+

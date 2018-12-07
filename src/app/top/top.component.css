@@ -1,0 +1,31 @@
+.navbar{
+    background: #c8d9eb;
+}
+
+.card{
+    margin-top: 40px;
+    border-radius: 5px;
+
+}
+
+.text-center{
+    border-radius: 5px;
+}
+.card-header{
+    background: #f0d9da;
+    font-family: 'Oswald', sans-serif;
+}
+
+.top{
+
+    margin-top: 10px;
+}
+.text{
+    background: #ecf2f9;
+    height: 200px;
+}
+
+.card-text{
+    font-family: 'Roboto Slab', serif;
+}
+
