@@ -8,7 +8,6 @@
 }
 
 
-
 .card-body{
     height: 100%;
     background: #c8d9eb;
@@ -21,8 +20,8 @@
 }
 
 .card-header{
-    background: #f0d9da;
-    
+    background: #ecf2f9;
+    font-family: 'Oswald', sans-serif;
 }
 .text-center{
     margin-top: 30px;
